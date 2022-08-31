@@ -2,3 +2,4 @@ tensorflow-macos
 numpy
 matplotlib
 Pillow
+scikit-learn
