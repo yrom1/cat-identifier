@@ -1,0 +1,185 @@
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/cat/11565.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/cat/11565.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/cat/10125.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/cat/10125.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/cat/4833.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/cat/4833.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/cat/2663.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/cat/2663.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/cat/11210.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/cat/11210.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/cat/9778.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/cat/9778.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/cat/11935.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/cat/11935.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/cat/3491.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/cat/3491.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/cat/5553.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/cat/5553.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/cat/936.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/cat/936.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/cat/8470.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/cat/8470.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/cat/660.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/cat/660.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/cat/850.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/cat/850.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/cat/10820.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/cat/10820.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/cat/3300.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/cat/3300.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/cat/11874.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/cat/11874.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/cat/10404.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/cat/10404.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/cat/7978.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/cat/7978.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/cat/9565.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/cat/9565.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/cat/9171.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/cat/9171.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/cat/7968.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/cat/7968.jpg'>
+bad file /Users/ryan/data/dog/9041.jpg
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/dog/11410.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/dog/11410.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/dog/7133.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/dog/7133.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/dog/6238.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/dog/6238.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/dog/2688.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/dog/2688.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/dog/5736.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/dog/5736.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/dog/4367.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/dog/4367.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/dog/3136.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/dog/3136.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/dog/10747.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/dog/10747.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/dog/1866.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/dog/1866.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/dog/6059.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/dog/6059.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/dog/10797.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/dog/10797.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/dog/11853.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/dog/11853.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/dog/11675.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/dog/11675.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/dog/7369.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/dog/7369.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/dog/1308.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/dog/1308.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/dog/9188.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/dog/9188.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/dog/11849.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/dog/11849.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/dog/8730.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/dog/8730.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/dog/5604.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/dog/5604.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/dog/3288.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/dog/3288.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/dog/7969.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/dog/7969.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/dog/2384.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/dog/2384.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/dog/10158.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/dog/10158.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/dog/6718.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/dog/6718.jpg'>
+Exception ignored in: <_io.FileIO name='/Users/ryan/data/dog/10401.jpg' mode='rb' closefd=True>
+Traceback (most recent call last):
+  File "/var/folders/8f/pmq_g1556d942470cc0ghx480000gn/T/ipykernel_58066/4045465088.py", line 12, in load_data
+ResourceWarning: unclosed file <_io.BufferedReader name='/Users/ryan/data/dog/10401.jpg'>
